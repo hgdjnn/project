@@ -18,9 +18,6 @@ public class DetelBook extends ActionSupport{
 		return m=4;
 	}
 
-	public void setTitle(String title) {
-		this.title = title;
-	}
 	
 	public char detel(int i)
 	{
